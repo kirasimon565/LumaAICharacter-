@@ -1,0 +1,8 @@
+{
+  "name": "LumaAI",
+  "description": "A noir-luxury AI character platform running locally in the browser.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
